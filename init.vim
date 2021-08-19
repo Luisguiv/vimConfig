@@ -16,6 +16,5 @@ set relativenumber
 set inccommand=split
 
 let mapleader="\<space>"
-"nnoremap <leader>; A; <esc>
 nnoremap <leader>ev :vsplit ~/AppData/Local/nvim/init.vim<cr>
 nnoremap <leader>sv :source ~/AppData/Local/nvim/init.vim<cr>
