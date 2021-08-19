@@ -6,6 +6,7 @@ if empty(glob('~/AppData/Local/nvim/autoload/plug.vim'))
   "Autocmd VimEnter * PlugInstall | source $MYVIMRC
 endif
 
+"source ~/Appdata/Local/nvim/plugins/gruvbox.vim
 source ~/AppData/Local/nvim/plugins/general.vim
 source ~/AppData/Local/nvim/plugins/noconfp.vim
-source ~/Appdata/Local/nvim/plugins/gruvbox.vim
+source ~/AppData/Local/nvim/plugins/onedark.vim
